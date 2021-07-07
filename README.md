@@ -1,5 +1,9 @@
 # OBS-Twitter-Stream
 
+このリポジトリは、[CubeZerro/OBS-Twitter-Stream](https://github.com/CubeZeero/OBS-Twitter-Stream)をフォークしたものです。
+
+---
+
 OBSなどの配信ソフトのブラウザソースで特定のキーワードを含んだツイートを表示します
 
 ![exampleimage](https://github.com/CubeZeero/OBS-Twitter-Stream/blob/main/image/example_screen.gif?raw=true)
@@ -29,4 +33,5 @@ MacOS版のリリースについては今の所予定はありません
 Twitter: https://twitter.com/cubezeero
 
 ### License
+
 MIT License
